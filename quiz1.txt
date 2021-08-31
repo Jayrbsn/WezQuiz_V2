@@ -1,0 +1,3 @@
+1, what is your name?, Wesley, bob, steve, a
+2, what colour is a banana?, green, blue, yellow, c
+3, how many fingers am i holding up, 2, 3, 4, b
